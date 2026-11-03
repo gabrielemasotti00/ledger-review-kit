@@ -1,0 +1,5 @@
+id,date,currency,amount,reference
+L1,2026-01-04,EUR,125.1,INV-01
+L2,2026-01-02,EUR,-40,fee
+L3,2026-01-02,EUR,-40,fee
+L4,2026-01-01,EUR,25,refund

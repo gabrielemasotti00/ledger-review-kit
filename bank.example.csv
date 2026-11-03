@@ -1,0 +1,4 @@
+id,date,currency,amount,reference
+B1,2026-01-01,EUR,125.10,inv-01
+B2,2026-01-02,EUR,-40,fee
+B3,2026-01-02,USD,-40,fee
